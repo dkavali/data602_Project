@@ -1,6 +1,5 @@
-# Project-SOEN691-BigData
+# Project- DATA 602
 
-Team 30
 
 # Chicago Crime Dataset 
 Link: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
@@ -226,7 +225,3 @@ KNN (OverSampling) provides the best results.
 -  Focus on specific crime types can provide better intuition. 
 -  Using a combination of oversampling and undersampling techniques.
 
-## License 
-
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/vaibhav3m)
